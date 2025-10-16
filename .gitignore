@@ -21,6 +21,7 @@
 /build
 
 # misc
+/.idx
 .DS_Store
 *.pem
 
