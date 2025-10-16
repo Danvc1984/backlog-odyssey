@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { AuthProvider } from '@/hooks/use-auth';
 
 export const metadata: Metadata = {
-  title: 'Backlog Odyssey V2',
+  title: 'Backlog Odyssey',
   description: 'Manage your game library and get AI-powered recommendations.',
 };
 
