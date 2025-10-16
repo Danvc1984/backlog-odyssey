@@ -28,7 +28,7 @@ const faqItems = [
     {
         category: "General",
         question: "Can I make a local copy of the app?",
-        answer: "Yes! The app is open-source. You can find the complete source code on GitHub at https://github.com/Danvc1984/Backlog-Odyssey-V2. Feel free to fork the repository, explore the code, and run your own local instance."
+        answer: "Yes! The app is open-source. You can find the complete source code on GitHub at https://github.com/Danvc1984/backlog-odyssey. Feel free to fork the repository, explore the code, and run your own local instance."
     },
 
     // --- Library Management ---
